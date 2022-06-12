@@ -1,0 +1,107 @@
+body{
+    background-color: #23272A;
+    font-family:Arial, Helvetica, sans-serif;
+    color:white;
+}
+#banner{
+    margin-top: -21px;
+    margin-left: -8px;
+    width:101.215%;
+}
+#title{
+    text-align: center;
+}
+p{
+    font-size: 25px;
+}
+#paragraph{
+    margin-left: -8px;
+}
+#pfp{
+    height: 200px;
+    position: absolute;
+    top: 300px;
+    left: 1070px;
+}
+#views{
+    margin-top: -27px;
+    margin-left: -8px
+}
+#pfpText{
+    border: 2px solid;
+    border-color:black;
+    position: absolute;
+    top: 240px;
+    left: 1085px;
+}
+#subButton{
+    height: 100px;
+    width: 100px;
+    background-color: #23272A;
+    font-family:Arial, Helvetica, sans-serif;
+    color:white; 
+    font-size: 21px;
+}
+#subButton:hover{
+    background-color:#3f4244;
+}
+#discButton{
+    height: 100px;
+    width: 100px;
+    background-color: #23272A;
+    font-family:Arial, Helvetica, sans-serif;
+    color:white; 
+    font-size: 21px;
+    position: absolute;
+    right: 160px;
+    bottom: 20px;
+}
+#arrow{
+    font-size: 50px;
+    position: relative;
+    bottom: -20px
+}
+#arrow_{
+    font-size: 50px;
+    position: relative;
+    bottom: -20px;
+    left: -150px;
+}
+#arrow__{
+    font-size: 50px;
+    position: relative;
+    bottom: -20px;
+    left: -260px;
+}
+#coolVid{
+    margin-left: 8px;
+    font-size: 20px;
+}
+#coolVid_{
+    margin-left: 8px;
+    font-size: 20px;
+    height: 10px;
+    position: relative;
+    top: 20px;
+    left: -325px;
+}
+#vid{
+    width: 200px;
+    height: 90px;
+    position: relative;
+    left: -145px;
+    top: 50px;
+}
+#discordSeg{
+    margin-left: 8px;
+    font-size: 20px;
+    position: relative;
+    left: -160px;
+}
+#discordSeg_{
+    margin-left: 8px;
+    font-size: 20px;
+    position: relative;
+    top: 20px;
+    left: -270px;
+}
